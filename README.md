@@ -4,6 +4,7 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
+* [Contact](#Contact)
 
 ## General info
 Code Repository and general info for AAAI-AI-Fin'23 paper.
