@@ -2,7 +2,7 @@
 # Code Repository and general info for AAAI-AI-Fin'23 paper "Short-term prediction for Ethereum with Deep Neural Networks"
 
 
-Hardware and System configuration used on models:
+## Hardware and System configuration used on models:
 
 Anaconda Navigator 2.1.1
 Jupyter notebook server version 6.4.6
@@ -36,7 +36,7 @@ Total memory (GB):32
 
 
 
-Main packages:
+## Main packages:
 
 psutil==5.8.0
 
