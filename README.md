@@ -14,9 +14,13 @@ Version: 10.0.19041
 --------------- Hardware Information -------------------------
 
 Processor: Intel64 Family 6 Model 165 Stepping 5, GenuineIntel
+
 Physical cores: 10  - Total cores: 20
+
 Max Frequency: 3696Mhz  - Current Frequency: 3696Mhz
+
 Total memory (GB):32
+
 
 --------------- GPU Information -------------------------------
   id  name                     total memory
