@@ -3,7 +3,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Folder Structure](#folder_struc)
+* [Folder_Structure](#folder_struc)
 * [Setup](#setup)
 * [Contact](#Contact)
 
@@ -38,7 +38,7 @@ Main packages:
 * logging version 0.5.1.2
 * darts version 
 
-Folder Structure:
+Folder_Structure:
 *paper
 *data
 	
