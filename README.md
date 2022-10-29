@@ -3,6 +3,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
+* [Folder Structure](#folder_struc)
 * [Setup](#setup)
 * [Contact](#Contact)
 
@@ -27,15 +28,15 @@ Hardware:
 * Total memory (GB):32
 * GPU Information:  NVIDIA GeForce RTX 3090 - Total memory: 24576.0MB
 
-Packages:
+Main packages:
 * psutil version 5.8.0
-* GPUtil==1.4.0
-* platform==1.0.8
-* numpy==1.21.5
-* pandas==1.3.4
-* torch==1.10.2
-* logging==0.5.1.2
-* darts==
+* GPUtil version 1.4.0
+* platform version 1.0.8
+* numpy version 1.21.5
+* pandas version 1.3.4
+* torch version 1.10.2
+* logging version 0.5.1.2
+* darts version 
 	
 ## Setup
 To run this project, install it locally using npm:
@@ -49,9 +50,3 @@ $ npm start
 ## Contact
 Created by [@flynerdpl](eduardo.lopes@me.com) - feel free to contact me!
 
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
