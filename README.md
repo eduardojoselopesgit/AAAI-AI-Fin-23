@@ -11,14 +11,6 @@ Code Repository and general info for AAAI-AI-Fin'23 paper.
 	
 ## Technologies
 Project is created with:
-* psutil version 5.8.0
-* GPUtil==1.4.0
-* platform==1.0.8
-* numpy==1.21.5
-* pandas==1.3.4
-* torch==1.10.2
-* logging==0.5.1.2
-* darts==
 
 
 Software:
@@ -34,6 +26,16 @@ Hardware:
 * Max Frequency: 3696Mhz  - Current Frequency: 3696Mhz
 * Total memory (GB):32
 * GPU Information:  NVIDIA GeForce RTX 3090 - Total memory: 24576.0MB
+
+Packages:
+* psutil version 5.8.0
+* GPUtil==1.4.0
+* platform==1.0.8
+* numpy==1.21.5
+* pandas==1.3.4
+* torch==1.10.2
+* logging==0.5.1.2
+* darts==
 	
 ## Setup
 To run this project, install it locally using npm:
