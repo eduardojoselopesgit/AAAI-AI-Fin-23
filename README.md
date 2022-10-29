@@ -8,7 +8,7 @@
 * [Contact](#Contact)
 
 ## General info
-Code Repository and general info for AAAI-AI-Fin'23 paper.
+Code Repository and general info for AAAI-AI-Fin'23 paper. The main contribution of this research is to compare state-of-the-art deep learning architectures to predict Ethereum cryptocurrency close price on a time constrained scenario against an ARIMA model.
 	
 ## Technologies
 Project is created with:
