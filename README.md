@@ -45,7 +45,7 @@ $ npm start
 ```
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Created by [@flynerdpl](eduardo.lopes@me.com) - feel free to contact me!
 
 
 <!-- Optional -->
