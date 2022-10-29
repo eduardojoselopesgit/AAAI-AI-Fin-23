@@ -37,6 +37,10 @@ Main packages:
 * torch version 1.10.2
 * logging version 0.5.1.2
 * darts version 
+
+Folder Structure:
+*paper
+*data
 	
 ## Setup
 To run this project, install it locally using npm:
