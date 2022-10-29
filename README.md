@@ -39,8 +39,8 @@ Main packages:
 * darts version 
 
 ## Structure:
-*paper
-*data
+* paper
+* data
 	
 ## Setup
 To run this project, install it locally using npm:
