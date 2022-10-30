@@ -5,6 +5,7 @@
 * [Technologies](#technologies)
 * [Folders](#folders)
 * [Setup](#setup)
+* [Results](#results)
 * [Contact](#Contact)
 
 ## General info
@@ -50,6 +51,10 @@ $ cd ../lorem
 $ npm install
 $ npm start
 ```
+
+## Results
+* /results:
+
 
 ## Contact
 Created by [@flynerdpl](eduardo.lopes@me.com) - feel free to contact me!
