@@ -40,8 +40,8 @@ Main packages
 * darts version 
 
 ## Folders
-* /paper: ipynb files used 
-* /data: Ethereum (ETH) timeseries information
+* /model: ipynb files used 
+* /data: Ethereum (ETH) timeseries information.
 	
 ## Setup
 To run this project, install it locally using npm:
