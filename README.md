@@ -50,7 +50,7 @@ Main packages
 * G: batch size.
 * H: deep learning model.
 * /data: .csv file with Ethereum (ETH) timeseries information.
-* /results: spreadsheet file containing model results for different models and random seeds considered on model calculation.
+* /results: spreadsheet file containing model results for different models and random seeds considered on model calculation. Table 4 on the referred paper reflects the median values for MSE, MAE, RMSE, and MAPE for each deep learning model.
 	
 ## Setup
 To run this project, remember::
