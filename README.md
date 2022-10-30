@@ -46,9 +46,9 @@ Main packages
 * A anb B: code versioning.
 * C: cryptocurrency considered (ETH = ethereum).
 * D: number of epochs.
-* E: batch size.
-* F: 
-* G: 
+* E: not used.
+* F: not used.
+* G: batch size.
 * H: deep learning model.
 * /data: .csv file with Ethereum (ETH) timeseries information.
 * /results: spreadsheet containing model results for different models and random seeds considered on model calculation.
