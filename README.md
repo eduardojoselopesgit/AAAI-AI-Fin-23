@@ -37,10 +37,19 @@ Main packages
 * pandas version 1.3.4
 * torch version 1.10.2
 * logging version 0.5.1.2
-* darts version 
+* darts (u8darts) version 0.17.1
+
+8v0_BTC-EPOCHS_100-48-1-16-TFT.ipynb
 
 ## Folders
-* /model: .ipynb files used for model calculation.
+* /model: .ipynb files used for model calculation. Filename convention: <A>v<B>_<C>-EPOCHS_<D>-<E>-<F>-<G>-<H>.ipynb, where:
+* A anb B: code versioning.
+* C: cryptocurrency considered (ETH = ethereum).
+* D: number of epochs.
+* E: batch size.
+* F: 
+* G: 
+* H: deep learning model.
 * /data: .csv file with Ethereum (ETH) timeseries information.
 * /results: spreadsheet containing model results for different models and random seeds considered on model calculation.
 	
