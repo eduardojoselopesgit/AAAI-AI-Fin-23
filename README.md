@@ -40,8 +40,9 @@ Main packages
 * darts version 
 
 ## Folders
-* /model: ipynb files used 
+* /model: ipynb files used.
 * /data: Ethereum (ETH) timeseries information.
+* /results: spreadsheet containing model results for different models and random seeds considered on model calculation.
 	
 ## Setup
 To run this project, install it locally using npm:
