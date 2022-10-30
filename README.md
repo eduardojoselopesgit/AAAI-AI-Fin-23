@@ -5,7 +5,6 @@
 * [Technologies](#technologies)
 * [Folders](#folders)
 * [Setup](#setup)
-* [Results](#results)
 * [Contact](#Contact)
 
 ## General info
@@ -66,5 +65,5 @@ To run this project, remember::
 
 
 ## Contact
-Created by [@flynerdpl](eduardo.lopes@me.com) - feel free to contact me!
+Created by eduardo.lopes@me.com - feel free to contact me!
 
