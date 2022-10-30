@@ -46,7 +46,7 @@ Main packages
 * C: cryptocurrency considered (ETH = ethereum).
 * D: number of epochs.
 * E: not used.
-* F: not used.
+* F: forecast window size (hours).
 * G: batch size.
 * H: deep learning model.
 * /data: .csv file with Ethereum (ETH) timeseries information.
