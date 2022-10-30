@@ -45,12 +45,11 @@ Main packages
 * /results: spreadsheet containing model results for different models and random seeds considered on model calculation.
 	
 ## Setup
-To run this project, install it locally using npm:
+To run this project, remember::
 
 ```
-$ cd ../lorem
-$ npm install
-$ npm start
+1. Change the folder destination on the .ipynb files for the .csv file containing ETH timeseries information.
+
 ```
 
 ## Results
