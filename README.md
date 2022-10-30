@@ -45,7 +45,7 @@ Main packages
 * A anb B: code versioning.
 * C: cryptocurrency considered (ETH = ethereum).
 * D: number of epochs.
-* E: not used.
+* E: look-back sliding window.
 * F: forecast window size (hours).
 * G: batch size.
 * H: deep learning model.
