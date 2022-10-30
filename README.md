@@ -60,10 +60,6 @@ To run this project, remember::
 
 ```
 
-## Results
-* /results:
-
-
 ## Contact
 Created by eduardo.lopes@me.com - feel free to contact me!
 
