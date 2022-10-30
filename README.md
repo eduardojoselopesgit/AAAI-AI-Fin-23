@@ -42,7 +42,7 @@ Main packages
 8v0_BTC-EPOCHS_100-48-1-16-TFT.ipynb
 
 ## Folders
-* /model: .ipynb files used for model calculation. Filename convention: <A>v<B>_<C>-EPOCHS_<D>-<E>-<F>-<G>-<H>.ipynb, where:
+* /model: .ipynb files used for model calculation. Filename convention: AvB_C-EPOCHS_D-E-F-G-H.ipynb, where:
 * A anb B: code versioning.
 * C: cryptocurrency considered (ETH = ethereum).
 * D: number of epochs.
