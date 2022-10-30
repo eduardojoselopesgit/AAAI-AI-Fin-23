@@ -43,7 +43,7 @@ Main packages
 
 ## Folders
 * /model: .ipynb files used for model calculation. Filename convention: <A>v<B>_<C>-EPOCHS_<D>-<E>-<F>-<G>-<H>.ipynb, where:
-** A anb B: code versioning.
+* A anb B: code versioning.
 * C: cryptocurrency considered (ETH = ethereum).
 * D: number of epochs.
 * E: batch size.
