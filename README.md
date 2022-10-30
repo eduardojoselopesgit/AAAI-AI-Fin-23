@@ -38,7 +38,7 @@ Main packages
 * logging version 0.5.1.2
 * darts (u8darts) version 0.17.1
 
-8v0_BTC-EPOCHS_100-48-1-16-TFT.ipynb
+
 
 ## Folders
 * /model: .ipynb files used for model calculation. Filename convention: AvB_C-EPOCHS_D-E-F-G-H.ipynb, where:
